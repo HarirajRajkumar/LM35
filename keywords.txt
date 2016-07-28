@@ -1,0 +1,9 @@
+
+   LM35Temp	KEYWORD1
+  
+     TempinCelsius	KEYWORD2
+     TempinFahren	KEYWORD2
+     TempinKelvin	KEYWORD2
+     print_C	KEYWORD2
+     print_F	KEYWORD2
+     print_K	KEYWORD2
