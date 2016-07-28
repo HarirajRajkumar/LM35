@@ -45,6 +45,6 @@ This library contains 6 functions..
    Prints temperature in Kelvin directly to the serial monitor.
    
  
-   
+ Just an Arduino Startup.. Thank you   
 
 
