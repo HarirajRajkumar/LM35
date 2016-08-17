@@ -9,9 +9,14 @@ Reads the surrounding ambient temperature using LM35 and gives output in 3 diffe
 
 and even directly prints the Temperature (in *C , *F & K) to the serial monitor at the set baud rate.
 
+
 #Functionality
 
 This library contains 6 functions..
+
+Declaring object
+LM35Temp yourObject ( Pin number );
+// Class Name , MyObject1 ( Pin number in which lm35 is hooked on )
 ##Returning Functions.
  1.float TempinCelsius();
  
